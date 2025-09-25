@@ -1,1 +1,1 @@
-# VER-iclr
+# From Pixels to Physics: A Unified MLLM Framework for Distilling Governing Laws from Visual Dynamics
